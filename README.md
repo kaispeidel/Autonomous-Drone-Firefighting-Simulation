@@ -35,6 +35,10 @@ This repository contains all research materials, code, and documentation for my 
   - Risk asseesment of Fire Areas
   - Comparative analysis of different approaches
 
+###  Directory Information
+
+The paths to the directories have to be adapted to your path structure.
+
 ## System Requirements
 
 To run the simulation:
