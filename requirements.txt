@@ -1,0 +1,12 @@
+mesa
+heapq
+random
+seaborn
+numpy
+pandas
+matplotlib
+scikit-learn
+scikit-image
+scipy
+jupyter
+notebook
